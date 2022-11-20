@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lorem ipsum</title>
+</head>
+<body>
+   <!--
+    <marquee>Hello there</marquee><br>
+    <marquee bgcolor="0088FF">Have a nice day jerk</marquee><br>
+    <marquee width="80px">width="80"</marquee><br>
+    <marquee height="80px">height="80"</marquee><br>
+    <marquee wspace="3">odleglosc w pionie</marquee><br>
+    <marquee hspace="3">odleglosc w poziomie</marquee><br>
+    <marquee behavior="scroll">SCROOOOLL</marquee><br>
+    <marquee behavior="slide">SLIIIDE</marquee><br>
+    <marquee behavior="alternate">ALTERNATE!</marquee><br>
+    <marquee direction="left">left</marquee><br>
+    <marquee direction="right">right</marquee><br>
+    <marquee loop="1">loop 1</marquee><br>
+    <marquee scrollamount="80"><img src="1.png"></marquee><br>
+    <marquee scrolldelay="180">scrolldelay="180"</marquee><br>
+    <h3>Task 1</h3>
+   <table>
+        <tr>
+            <td align="top"><img src="1.jpg"></td>
+            <td rowspan="2"><p style="text-align: justify;" >Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p></td>
+            <td><img src="2.jpg"></td>
+        </tr>
+    </table>
+    <marquee bgcolor="yellow" direction="right" width="20px">3/4 ekranu x 20px?</marquee><br>
+ <img src="1.jpg"></td>
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+<td><img src="2.jpg"> -->
+    <h2 align="center" style="color:darkgreen">Here is the title</h2>
+    <img src="1.jpg" hspace="15" vspace="20" align="left" align="top" height="180px" alt="pink nose" title="pink nose">
+    <img src="2.jpg" hspace="15" vspace="20" align="right" align="top" height="250px" alt="small ears" title="small ears">
+    <p style="text-align: justify;">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+    At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. </p>
+
+    <center><marquee bgcolor="254023" style="color:blanchedalmond" direction="right" height="20px" width="75%"  vspace="5" hspace="10" behavior="alternate">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</marquee><br></center>
+<!-- 
+    1) margins in marquee
+    2) titles do not appear when hovering on
+    3) notes on the exam?
+    4) difference
+-->
+<center><h5>LAS GATAS</h5>
+<table>
+    <tr>
+        <td align="center">learn JS to proceed <br> <button onclick="document.location='default.asp'" target="_blank">button onclick</button> </td>
+        <td style="color:indigo"><center><b>source src</b></center>
+            <video width="300" controls autoplay>
+            <source src="cat.mp4" type="video/mp4"></video>
+    </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><center><b>embed <br> plays automatically</b></center>
+            <embed src="cat.mp4" width="300px">
+    </td>
+    <td align="center"><a href="https://www.w3schools.com/html/html_links.asp" target="_blank">link text</a> - <a href="https://www.w3schools.com/html/html_links.asp" target="_blank">link text</a> - <a href="https://www.w3schools.com/html/html_links.asp" target="_blank">link text</a>
+            <br>
+            <p align="center">Some links for you:</p>
+            <ul>
+                <li><a href="https://www.w3schools.com/html/html_links.asp" target="_blank">target="_blank"</a></li>
+                <li><a href="https://www.w3schools.com/html/html_links.asp" target="_self">target="_self"</a></li>
+                <li><a href="https://www.w3schools.com/html/html_links.asp" target="_parent">target="_parent"</a></li>
+            </ul></td>
+        <td><center><b>object <br> plays automatically</b></center>
+            <object width="300px" data="cat.mp4">gatitas</object>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td style="color:indigo"><center><b>source src</b></center>
+            <video width="300" controls preload="auto">
+            <source src="cat.mp4" type="video/mp4"></video>
+        </td>
+        <td align="center">learn JS to proceed <br> <button onclick="document.location='default.asp'" target="_blank">button onclick</button></td>
+    </tr>
+</table>
+<br><br>
+</body>
+</html>
